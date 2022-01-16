@@ -1,0 +1,10 @@
+.loginForm{
+    margin-top: 50px;
+}
+.text {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    color: black;
+}

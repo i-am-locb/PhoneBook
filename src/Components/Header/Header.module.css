@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.header button {
+  margin: auto 0;
+}
+.header div {
+  margin: auto 0;
+  width: 150px;
+  height: 50px;
+  font-size: 28px;
+  color: white;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 50px;
+}
+
